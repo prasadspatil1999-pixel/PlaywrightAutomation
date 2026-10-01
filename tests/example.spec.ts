@@ -21,4 +21,4 @@ test('get started link', async ({ page }) => {
 test(" Applogin ",async({page})=>
 {
   const login =new loginpageprasad(test)
-})
+})  
